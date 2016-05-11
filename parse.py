@@ -1,5 +1,4 @@
 from cyvcf2 import VCF
-import sqlite3 as sqlite
 import argparse
 
 """
